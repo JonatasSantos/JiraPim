@@ -1,0 +1,15 @@
+F:\ProjetoJiraPim_v1.2\JiraPim\CamadaEntidades\bin\Debug\CamadaEntidades.dll
+F:\ProjetoJiraPim_v1.2\JiraPim\CamadaEntidades\bin\Debug\CamadaEntidades.pdb
+F:\ProjetoJiraPim_v1.2\JiraPim\CamadaEntidades\obj\Debug\CamadaEntidades.dll
+F:\ProjetoJiraPim_v1.2\JiraPim\CamadaEntidades\obj\Debug\CamadaEntidades.pdb
+F:\ProjetoJiraPim_v1.3\ProjetoJiraPim_v1.3\JiraPim\CamadaEntidades\bin\Debug\CamadaEntidades.dll
+F:\ProjetoJiraPim_v1.3\ProjetoJiraPim_v1.3\JiraPim\CamadaEntidades\bin\Debug\CamadaEntidades.pdb
+F:\ProjetoJiraPim_v1.3\ProjetoJiraPim_v1.3\JiraPim\CamadaEntidades\obj\Debug\CamadaEntidades.csprojResolveAssemblyReference.cache
+F:\ProjetoJiraPim_v1.3\ProjetoJiraPim_v1.3\JiraPim\CamadaEntidades\obj\Debug\CamadaEntidades.dll
+F:\ProjetoJiraPim_v1.3\ProjetoJiraPim_v1.3\JiraPim\CamadaEntidades\obj\Debug\CamadaEntidades.pdb
+C:\Users\Jonatas\Desktop\ProjetoJiraPim_v1.3\ProjetoJiraPim_v1.3\JiraPim\CamadaEntidades\bin\Debug\CamadaEntidades.dll
+C:\Users\Jonatas\Desktop\ProjetoJiraPim_v1.3\ProjetoJiraPim_v1.3\JiraPim\CamadaEntidades\bin\Debug\CamadaEntidades.pdb
+C:\Users\Jonatas\Desktop\ProjetoJiraPim_v1.3\ProjetoJiraPim_v1.3\JiraPim\CamadaEntidades\obj\Debug\CamadaEntidades.csprojAssemblyReference.cache
+C:\Users\Jonatas\Desktop\ProjetoJiraPim_v1.3\ProjetoJiraPim_v1.3\JiraPim\CamadaEntidades\obj\Debug\CamadaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Desktop\ProjetoJiraPim_v1.3\ProjetoJiraPim_v1.3\JiraPim\CamadaEntidades\obj\Debug\CamadaEntidades.dll
+C:\Users\Jonatas\Desktop\ProjetoJiraPim_v1.3\ProjetoJiraPim_v1.3\JiraPim\CamadaEntidades\obj\Debug\CamadaEntidades.pdb
